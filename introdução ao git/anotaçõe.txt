@@ -1,0 +1,1 @@
+git é um software VCS local que permite aos desenvolvedores salvar snapshots de seus projetos ao longo do tempo.
